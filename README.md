@@ -2,6 +2,7 @@
 > mass zee5 checker for windows with http proxy mod
 ### ⚠ Warning - I Will Not be Responsible for Any Kind of Problems That Arise due to Unfair Usage. ⚠
 > for Educational purposes only
+# Add a star if this helped you ⭐ 
 
 ## Changelog ⛔
 
