@@ -27,7 +27,6 @@
 ### Issues? 〽
 
 * Report Them on GitHub.
-* Contact Support : [@VoldemortCommunity (Telegram)](https://t.me/VoldemortCommunity)
 
 ### Feature Requests & Feedback 🌐
 
