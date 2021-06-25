@@ -35,6 +35,6 @@
 
 ## Screenshots 📷
 ![ss1](https://i.postimg.cc/HsrQ3m9h/Screenshot.jpg)
-
+![ss2](https://i.postimg.cc/hP7dqqFY/Screenshot.png)
 
 
